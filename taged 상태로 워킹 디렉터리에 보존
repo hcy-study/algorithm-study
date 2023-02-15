@@ -1,0 +1,39 @@
+[33mcommit 88fca575f4e9b255c74afc70cfc3bd0ea459246e[m[33m ([m[1;36mHEAD -> [m[1;32mdayomi02-Pokemon[m[33m)[m
+Author: dayomi02 <ek605500@gmail.com>
+Date:   Sun Jan 15 17:31:26 2023 +0900
+
+    fail: #1 programmers 난이도_하 완주하지 못한 선수
+    
+    https://school.programmers.co.kr/learn/courses/30/lessons/42576
+
+[33mcommit 789d3b59d666ba9f1faaffb3402006fd2c49cc34[m[33m ([m[1;31morigin/dayomi02-Pokemon[m[33m)[m
+Author: dayomi02 <ek605500@gmail.com>
+Date:   Tue Jan 10 20:16:32 2023 +0900
+
+    solve: #1 programmers 난이도_하 폰켓몬
+    https://school.programmers.co.kr/learn/courses/30/lessons/1845
+
+[33mcommit aed5960858dafa9683c93e235fdc3e1ea987581c[m[33m ([m[1;31morigin/dayomi02-FindingRepurchaseMembers[m[33m, [m[1;32mdayomi02-FindingRepurchaseMembers[m[33m)[m
+Author: dayomi02 <ek605500@gmail.com>
+Date:   Sun Jan 8 20:55:52 2023 +0900
+
+    solve: #5 programmers 난이도_중 재구매회원찾기
+    https://school.programmers.co.kr/learn/courses/30/lessons/131536
+
+[33mcommit b408e9933eebab1bc20ff2ca4a46a67f6cb6f0a6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: yoojinhee0207 <120366996+yoojinhee0207@users.noreply.github.com>
+Date:   Sun Jan 8 14:33:16 2023 +0900
+
+    docs: 커밋 규칙 업데이트
+
+[33mcommit 602fec33b0a1af6b01bce2f92f4d42981474239e[m
+Author: yoojinhee0207 <120366996+yoojinhee0207@users.noreply.github.com>
+Date:   Sun Jan 8 14:31:55 2023 +0900
+
+    docs: init
+
+[33mcommit c7cb7ddca3659def2570a10a4ccc7b21d66dc2be[m
+Author: yoojinhee0207 <120366996+yoojinhee0207@users.noreply.github.com>
+Date:   Sun Jan 8 14:30:57 2023 +0900
+
+    Initial commit
